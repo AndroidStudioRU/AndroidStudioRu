@@ -1,3 +1,3 @@
 # [Заказать Сдесь сейчас]
 
-https://money.yandex.ru/to/410011236300896/15000
+https://androidstudioru.github.io/AndroidStudioRu/
